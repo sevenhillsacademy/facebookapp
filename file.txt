@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This code changes from development branch by devloper one
 111111111111111111111111111
 22222222222222222222
@@ -9,3 +10,8 @@ This code changes from development branch by devloper one
 8888888888888888888888
 99999999999999999999999
 100000000000000000000
+=======
+This code is updatd from dev branch
+
+this code is updated from main branch
+>>>>>>> main
